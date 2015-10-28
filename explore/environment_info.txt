@@ -1,0 +1,12 @@
+We will be needing following softwares for setting up and working together. 
+
+1.Communication :
+   Slack for Desktop
+   Slack for mobile (Google both things and get it set up)
+   
+   
+2.Version Control System:
+   Git (you can either use git software or git command line .Just google it and you will find it )
+   Git for Mobile (You can get android app if you want)
+   
+   ---To be upadated----
