@@ -3,3 +3,4 @@ Task list:
 2. Market Research all the safety and anti theft apps .Come up with feature points based on the research. [Completion time: 31st oct]
 3. Set up Environment , clone the repo , Figure out how to use github and git and pushed a sample commit to indicate you learned it.
 [Completion time: 31st oct]
+(find the info regarding environment setup in environment_setup.txt and for tutorial find referrence in referrence.txt)
