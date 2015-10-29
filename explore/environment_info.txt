@@ -3,6 +3,7 @@ We will be needing following softwares for setting up and working together.
 1.Communication :
    Slack for Desktop
    Slack for mobile (Google both things and get it set up)
+   skype 
    
    
 2.Version Control System:
