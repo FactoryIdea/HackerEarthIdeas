@@ -1,0 +1,10 @@
+Here are the Design Parameters of the Mobile application.
+
+1.Efficient -> Less Space, less Memory and less battery consumption
+
+2. User Friendly -> should not bother user much , simple and easy to understand ui, minimum information ,should interact only wnen required.
+
+3. Desigh of Triggers .Functionalities should be full .Stress on more offline functionality
+
+4.Transparancy -> User should have full power over his/her data. Should be able to know what data is stored and what is app doing with it.
+                 User Should be assured that app is indeed not spying on him/her.
