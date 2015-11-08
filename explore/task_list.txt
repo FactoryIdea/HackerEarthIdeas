@@ -5,6 +5,7 @@ Completition Time : 16th Nov 2015
 1.Setup Remaining Tools
 2.Market Research on Idea 'School Bag'[Dev div opinion is still missing so its not finilized yet but finding the feature list and doing market analysis will not hurt]
 3. Come up with Name of Security APP(*urgent)
+4.Go over to organisation->people and make your visibility as public
 
 Shankar,Arnab,Divesh:
 1.Learn Android
