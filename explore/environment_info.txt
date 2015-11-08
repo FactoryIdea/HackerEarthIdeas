@@ -10,4 +10,10 @@ We will be needing following softwares for setting up and working together.
    Git (you can either use git software or git command line .Just google it and you will find it )
    Git for Mobile (You can get android app if you want)
    
+3.Design Tools:
+    Pencil(Need Arnab Review)
+    
+4.Developement Tools:
+    Android Studio
+   
    ---To be upadated----
