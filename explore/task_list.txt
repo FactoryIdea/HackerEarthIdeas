@@ -1,5 +1,30 @@
 Task list:
 
+Completition Time : 16th Nov 2015
+* (* means All):
+1.Setup Remaining Tools
+2.Market Research on Idea 'School Bag'[Dev div opinion is still missing so its not finilized yet but finding the feature list and doing market analysis will not hurt]
+
+Shankar,Arnab,Divesh:
+1.Learn Android
+2.Learn Git and Github
+
+Arnab ,meShakti:
+1.Suggest A good desigining tool for the team to use
+2.Design Scrreens and suggest workflow.[workflow is how the app control flow for example on clicking to the certain tab which activity should open]
+3.Design Mock App
+4.Push the code on IdeaFactory
+
+Arnab,Divesh:
+1.Come up with Stratergies to draw outside collaboration for our project .Our project is not ready yet so for now just keep in mind of this point and draw some ideas for that .You can make a textFile 'Market Ideas.txt' and put your ideas in it.
+
+Shakti :
+1.Change the visiblity of organisation.It's an open source project .It's no use if we can't get outside collaboration.
+
+Shankar:
+1.Accept the invitiation of organisation
+
+----------------------------------------------------------------------------------------------------------------------
 Completiton Time : 7th Nov 2015
 1.Come up with an idea of another app.
 2.Setup Environment
