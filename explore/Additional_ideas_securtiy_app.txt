@@ -1,0 +1,4 @@
+1.Temprary brick
+2.Community portal for transparancy
+3.alarm for threat condition
+4.Phone number on nearest location call on emergency condition.
